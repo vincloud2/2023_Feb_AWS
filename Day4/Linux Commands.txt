@@ -1,0 +1,27 @@
+ pwd   - Presnt working directory 
+
+ 
+cd /  -  Change directory 
+  
+mkdir mylinux    - Make directory 
+
+ls              - List file/folderes
+
+cd mylinux      -   Change directory 
+
+cd /home/ec2-user   -   Change directory 
+
+vi resume.txt       - vi editor
+
+cat resume.txt    - To Dispaly the contents 
+
+
+mv feb_2023 feb_2024  - to rename the folder
+
+mv resume.txt resume1.txt  - to rename the file
+
+rm resume1.txt    - to delete a file 
+
+rmdir feb_2024   - to remove the dir 
+
+history    - to check the history of commands
